@@ -124,7 +124,7 @@ una vez puesto todos los nombres se selecciona la pista, el juego contempla que 
 
 ![image](https://user-images.githubusercontent.com/83151174/125001591-9f37c000-e018-11eb-96a0-86e3bd27457e.png)
 
-Por ultimo luego de realizar la carrera el codigo me entrega el podio y almacena en la DB.
+Por último luego de realizar la carrera el código me entrega el podio y almacena en la DB.
 
 ![image](https://user-images.githubusercontent.com/83151174/125001645-c55d6000-e018-11eb-9fe9-0465f5563c78.png)
 
@@ -133,7 +133,6 @@ DB
 ![image](https://user-images.githubusercontent.com/83151174/125001664-cee6c800-e018-11eb-89f4-850d2a4189aa.png)
 
 
-**Free Software, Hell Yeah!**
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
