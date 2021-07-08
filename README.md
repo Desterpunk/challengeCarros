@@ -106,6 +106,31 @@ Al final del código estarán los ***3 metodos*** necesarios para la conexión c
 
 ![image](https://user-images.githubusercontent.com/83151174/124997993-36007e80-e011-11eb-95f2-3a3efea90a8a.png)
 
+## Código
+
+El código inicia solicitando la catidad de jugadores además de creando una nueva base de datos si la conexión fue realizada, sino no afectara el código pero la persistencia de los datos no será en una base de datos. 
+
+![image](https://user-images.githubusercontent.com/83151174/125001130-90044280-e017-11eb-9fb2-1ff8de9f0dda.png)
+
+Luego pide el nombre de los jugadores, el código contempla string vacios e inclusive repetidos.
+
+![image](https://user-images.githubusercontent.com/83151174/125001307-eb363500-e017-11eb-9ab5-e393043fa7c1.png)
+
+y pregunta si el jugador va a ser conductor o no esto admite yYnN.
+
+![image](https://user-images.githubusercontent.com/83151174/125001275-db1e5580-e017-11eb-843e-1c6f85d66b8f.png)
+
+una vez puesto todos los nombres se selecciona la pista, el juego contempla que si el valor ingresado no esta disponible tenga que ingresar de nuevo el valor.
+
+![image](https://user-images.githubusercontent.com/83151174/125001591-9f37c000-e018-11eb-96a0-86e3bd27457e.png)
+
+Por ultimo luego de realizar la carrera el codigo me entrega el podio y almacena en la DB.
+
+![image](https://user-images.githubusercontent.com/83151174/125001645-c55d6000-e018-11eb-9fe9-0465f5563c78.png)
+
+DB
+
+![image](https://user-images.githubusercontent.com/83151174/125001664-cee6c800-e018-11eb-89f4-850d2a4189aa.png)
 
 
 **Free Software, Hell Yeah!**
