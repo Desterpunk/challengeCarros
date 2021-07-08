@@ -132,6 +132,13 @@ DB
 
 ![image](https://user-images.githubusercontent.com/83151174/125001664-cee6c800-e018-11eb-89f4-850d2a4189aa.png)
 
+Si se juega otra carrera los valores seran actualizados en la DB
+
+![image](https://user-images.githubusercontent.com/83151174/125001867-4583c580-e019-11eb-8865-0cd5a2b542d9.png)
+
+DB
+
+![image](https://user-images.githubusercontent.com/83151174/125001893-50d6f100-e019-11eb-8e0f-bfc8c83db1c6.png)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
